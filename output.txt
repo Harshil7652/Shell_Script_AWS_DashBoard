@@ -1,0 +1,11 @@
+2024-03-09 22:16:32 electricity-dataset-s3
+2024-01-25 02:00:14 harshilgandhi.com
+{
+    "Functions": []
+}
+{
+    "Reservations": []
+}
+"harshil-aws-admin"
+"John-Junior-Developer"
+"Smith-developer"
