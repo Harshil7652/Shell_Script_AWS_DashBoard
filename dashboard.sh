@@ -23,3 +23,5 @@ aws ec2 describe-instances >> output.txt
 echo "List of IAM Users"
 aws iam list-users | jq '.Users[].UserName' >> output.txt
 echo "List of EBS volumns in cloud"
+
+echo "This is the end of the shell script"
