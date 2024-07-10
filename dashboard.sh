@@ -25,3 +25,8 @@ aws iam list-users | jq '.Users[].UserName' >> output.txt
 echo "List of EBS volumns in cloud"
 
 echo "This is the end of the shell script"
+
+echo " This is the part of the monitoring branch"
+
+
+echo "This is the end of the monitoring branch"
